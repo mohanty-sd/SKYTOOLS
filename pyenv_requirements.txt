@@ -1,0 +1,7 @@
+astropy==7.1.0
+astropy-iers-data==0.2025.6.16.0.38.47
+healpy==1.18.1
+numpy==2.3.0
+packaging==25.0
+pyerfa==2.0.1.5
+PyYAML==6.0.2
